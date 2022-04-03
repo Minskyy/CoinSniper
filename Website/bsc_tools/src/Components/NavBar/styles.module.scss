@@ -1,0 +1,19 @@
+.NavBar {
+  background-color: rgba(32, 35, 48, 1);
+  height: 10vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.LinkButtonGroup {
+  display: flex;
+  width: 400px;
+}
+
+
+.LaunchAppButton {
+  float: right;
+}
+

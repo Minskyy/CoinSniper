@@ -1,0 +1,3 @@
+const REQUEST_TOKEN = 'REQUEST_TOKEN';
+
+export { REQUEST_TOKEN };

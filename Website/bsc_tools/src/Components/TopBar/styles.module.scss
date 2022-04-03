@@ -1,0 +1,28 @@
+.TopBar {
+  height: 7vh;
+  width: 100%;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: white;
+}
+
+.LinkButtonGroup {
+  display: flex;
+  width: 400px;
+}
+
+.FeaturesDiv {
+  display: flex;
+  justify-content: space-evenly;
+  width: 500px;
+}
+
+.FeaturesDiv p {
+  cursor: pointer;
+}
+
+.LaunchAppButton {
+  float: right;
+}

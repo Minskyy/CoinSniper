@@ -1,0 +1,26 @@
+.telegramTab {
+  display: grid;
+  grid-template-rows: 100px 100px 100px auto;
+}
+
+.BalanceTable {
+  width: 100%;
+}
+
+.LoadingSpinner {
+  justify-self: center;
+}
+
+.myButton {
+  background-color: white !important;
+  color: black !important;
+  width: 200px;
+  height: 30px;
+  justify-self: center;
+  align-self: center;
+}
+
+p {
+  justify-self: center;
+  align-self: center;
+}
